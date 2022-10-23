@@ -4,7 +4,7 @@
     learning. Entre as etapas destacam-se a analise exploratória e gráficos dos dados, tratamento de dados, tratamento de valores missing, engenharia de atributos, normalização dos dados,
     OneHotEncoding e por fim a criação de um modelo de regressão linear para prever o score de crédito.
     
-         ![Figure_1](https://user-images.githubusercontent.com/102812154/197416794-12ddd8a2-b892-4700-9008-e72a5217f393.png)
+  ![Figure_1](https://user-images.githubusercontent.com/102812154/197416794-12ddd8a2-b892-4700-9008-e72a5217f393.png)
 
   * Os bancos utilizam muito esse tipo de modelo preditivo.
   * As principais ferramentas usadas são pandas, numpy, sklearn, matplotlib.pyplot e seaborn. 
