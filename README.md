@@ -9,3 +9,6 @@
 
   * Os bancos utilizam muito esse tipo de modelo preditivo.
   * As principais ferramentas usadas são pandas, numpy, sklearn, matplotlib.pyplot e seaborn. 
+  * O segundo modelo preditor inserido neste projeto, corresponde a um avaliador de emprestimos de clientes de um banco e utiliza dados de entrada como o credit score
+    para determinar os individuos que estão aptos a realizar uma operação de emprestimo.
+    - Nesta aplicação, o desempenho do modelo classificador é avaliado pela métrica da precisão de acertos.
